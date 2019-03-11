@@ -37,7 +37,8 @@ npm run build
 - React
 - ES6+ Support via Babel v7
 - SASS Support
-- Cross browser CSS support via autoprefixer
+- ESLint for React and ES6+
+- [Autoprefixer](https://www.npmjs.com/package/eslint-config-react-app "Autoprefixer") plugin to parse CSS and add vendor prefixes to CSS rules using values from [Can I Use](https://caniuse.com/ "Can I Use website")
 - Different webpack settings that are needed for Development and Production
 
 ### Development Features:
