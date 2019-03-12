@@ -45,7 +45,7 @@ npm run build
 
 - ESLint (React and ES6+) for IDE console by using [eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app "eslint-config-react-app")
 - ESLint (React and ES6+) for browser console by using [eslint-loader](https://github.com/webpack-contrib/eslint-loader "eslint-loader")
-- Auto reload page on changes to any HTML/CSS/SCSS/SASS/JS files
+- Auto reload page on any changes to HTML/CSS/SCSS/SASS/JS files
 
 ### Production Features:
 
